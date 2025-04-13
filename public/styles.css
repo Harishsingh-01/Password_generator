@@ -1,11 +1,11 @@
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.container{
+.container {
     width: 100%;
     min-height: 100vh;
     background-color: rgb(1, 1, 99);
@@ -15,14 +15,14 @@
     align-items: center;
 }
 
-h1{
+h1 {
     font-size: 2.5rem;
     color: white;
     font-weight: 400;
     text-align: center;
 }
 
-p{
+p {
     font-size: 2.5rem;
     color: rgb(87, 253, 137);
     font-weight: 400;
@@ -152,6 +152,4 @@ input[type="range"]::-webkit-slider-thumb {
     .options {
         grid-template-columns: 1fr 1fr;
     }
-}
-
-
+} 

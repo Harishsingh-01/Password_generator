@@ -80,4 +80,4 @@ function createpassword() {
             clearInterval(interval);
         }
     }, 50);
-}
+} 
